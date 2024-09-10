@@ -1,0 +1,2 @@
+# flipkartclone
+Django+Bootstrap+JS
